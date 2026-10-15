@@ -1,3 +1,6 @@
+Name : Anurag singh
+Roll no : 202610101110704
+
 # College AI Assistant
 
 A command-line college assistant powered by the Gemini API. The project also
